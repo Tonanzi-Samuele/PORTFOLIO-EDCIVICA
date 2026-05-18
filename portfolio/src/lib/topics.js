@@ -1,7 +1,7 @@
 export const anni = [
   {
     anno: '3ª Superiore',
-    periodo: '2022/23',
+    periodo: '2023/24',
     id: 'terza',
     materie: [
       {
@@ -51,7 +51,7 @@ export const anni = [
   },
   {
     anno: '4ª Superiore',
-    periodo: '2023/24',
+    periodo: '2024/25',
     id: 'quarta',
     materie: [
       // {
@@ -86,7 +86,7 @@ export const anni = [
   },
   {
     anno: '5ª Superiore',
-    periodo: '2024/25',
+    periodo: '2025/26',
     id: 'quinta',
     materie: [
       {
@@ -133,7 +133,7 @@ export const anni = [
             titolo: 'Aktion T4 e Progetto Lebensborn',
             tipo: 'Ricerca Storica',
             descrizione : "L'Aktion T4 e il progetto Lebensborn rappresentano due facce della stessa medaglia: l'ideologia nazista della purezza della razza applicata in direzioni opposte. Da un lato l'Aktion T4, il programma di eutanasia involontaria con cui vennero uccise oltre 70.000 persone con disabilità fisiche o mentali — eliminate perché considerate 'vite indegne di essere vissute'. Dall'altro il Lebensborn, una rete di istituti pensata per far nascere e crescere bambini ritenuti 'ariani puri', figli di SS selezionati. Due programmi opposti nella forma, identici nell'aberrazione.",
-            foto: [],
+            foto: ["aktion.jpeg"],
             link: []
           },
           {
