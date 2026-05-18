@@ -27,7 +27,10 @@ const config = {
             fallback: undefined,
             precompress: false,
             strict: true
-        })
+        }),
+		paths: {
+			base: '/PORTFOLIO-EDCIVICA'
+		}
 	}
 };
 export default config;
