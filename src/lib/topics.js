@@ -1,3 +1,4 @@
+import { base } from "$app/paths";
 export const anni = [
   {
     anno: '3ª Superiore',
@@ -12,7 +13,7 @@ export const anni = [
             titolo: 'La Mattanza',
             tipo: 'Libro — Carlo Lucarelli',
             descrizione: "Il libro \"La Mattanza\" di Carlo Lucarelli ripercorre la storia di Cosa Nostra dagli anni Settanta fino ai giorni nostri: dal processo di Bari del 1969 che ruppe per la prima volta il silenzio sulla mafia, passando per le figure di Riina, Bagarella e Provenzano, la guerra dei Corleonesi, le morti di Dalla Chiesa, Falcone e Borsellino, fino al maxiprocesso e alle stragi di Capaci e via D'Amelio. Lucarelli racconta tutto con lo stile coinvolgente del romanzo noir, ma i fatti sono reali.",
-            foto: ['/mattanza.jpg'],
+            foto: [`${base}/mattanza.jpg`],
             link: []
           }
         ]
